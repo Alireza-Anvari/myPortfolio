@@ -1,0 +1,32 @@
+@font-face {
+  font-family: fontFa1;
+  src: url(./Assets/Fonts/vazir/Vazir.ttf);
+  src: url(./Assets/Fonts/vazir/Vazir.eot);
+  src: url(./Assets/Fonts/vazir/Vazir.woff);
+  src: url(./Assets/Fonts/vazir/Vazir.woff2);
+}
+@font-face {
+  font-family: fontFa2;
+  src: url(./Assets/Fonts/Lalezar-Font-fontyab.com_/Lalezar-Font/Lalezar-Regular.otf);
+  src: url(./Assets/Fonts/Lalezar-Font-fontyab.com_/Lalezar-Font/Lalezar-Regular.ttf);
+
+}
+
+
+@font-face {
+  font-family: fontEn1;
+  src: url(./Assets/Fonts/CascadiaCode/CascadiaCode-Italic.ttf);
+  src: url(./Assets/Fonts/CascadiaCode/CascadiaCode-Italic.otf);
+  src: url(./Assets/Fonts/CascadiaCode/CascadiaCode-Italic.woff);
+  src: url(./Assets/Fonts/CascadiaCode/CascadiaCode-Italic.woff2);
+
+}
+
+
+
+
+
+body{
+  /* font-family: 'fontFa1','fontEn2'; */
+  /* background-color: green; */
+}

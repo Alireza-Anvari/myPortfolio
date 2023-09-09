@@ -1,0 +1,8 @@
+export {default as Home} from './Home'
+export {default as About} from './About/About'
+export {default as CardAbout} from './About/CardAbout'
+export {default as Project} from './Projects/Project'
+export {default as CardProject} from './Projects/CardProject'
+export {default as Comments} from './Comments'
+export {default as ContactMe} from './ContactMe/ContactMe'
+export {default as CardContactMe} from './ContactMe/CardContactMe'
